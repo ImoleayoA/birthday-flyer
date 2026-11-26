@@ -1,0 +1,9 @@
+.rembg/
+work/
+image-search/
+output/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+deploy/flyer-hf-space.zip

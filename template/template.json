@@ -1,0 +1,41 @@
+{
+  "canvas": [
+    1056,
+    1489
+  ],
+  "disc": {
+    "cx": 521,
+    "cy": 877,
+    "r": 316
+  },
+  "band": {
+    "bbox": [
+      94,
+      1121,
+      899,
+      1303
+    ],
+    "name_center": [
+      521,
+      1223
+    ],
+    "name_size": 64,
+    "name_max_width": 500,
+    "name_color": [
+      12,
+      12,
+      12
+    ],
+    "font": "fonts/ArchivoBlack-Regular.ttf"
+  },
+  "cutout": {
+    "height": 620,
+    "bottom": 1222,
+    "center_x": 521
+  },
+  "assets": {
+    "base": "assets/base.png",
+    "overlay": "assets/overlay.png",
+    "band_mask": "assets/band_mask.png"
+  }
+}
