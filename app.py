@@ -122,7 +122,7 @@ PAGE = r"""
 
       <div class="field">
         <label for="name">Name on the flyer</label>
-        <input type="text" id="name" name="name" placeholder="SIS HELEN" maxlength="42" required>
+        <input type="text" id="name" name="name" placeholder="ENTER NAME" maxlength="42" required>
       </div>
 
       <div class="field">
