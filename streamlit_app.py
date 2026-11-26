@@ -86,7 +86,7 @@ with left:
         accept_multiple_files=False,
         help='JPG · PNG · HEIC/HEIF · AVIF · WebP · TIFF · BMP · GIF · RAW — any image works.',
     )
-    name = st.text_input('Name on the flyer', placeholder='SIS HELEN', max_chars=42)
+    name = st.text_input('Name on the flyer', placeholder='ENTER NAME', max_chars=42)
 
     mode_label = st.radio(
         'Photo style',
